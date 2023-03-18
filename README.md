@@ -20,3 +20,10 @@
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/memos-on-replit/master/install.sh)
 ```
+一键更新脚本[当前Memos-v0.11.2`更新时间2023年03月18日`]
+```
+bash <(curl -s https://raw.githubusercontent.com/sxbai/memos-on-replit/master/update.sh)
+```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sxbai/memos-on-replit&type=Date)](https://star-history.com/#sxbai/memos-on-replit&Date)
