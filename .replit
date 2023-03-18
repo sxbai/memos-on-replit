@@ -1,0 +1,9 @@
+run = ["bash", "main.sh"]
+
+entrypoint = "main.sh"
+
+[languages.go]
+pattern = "**/*.go"
+
+[nix]
+channel = "stable-22_11"
